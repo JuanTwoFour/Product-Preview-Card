@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Product Preview Card Solution]()
-- Live Site URL: [Product Preview Card Live Page](https://your-live-site-url.com)
+- Live Site URL: [Product Preview Card Live Page](https://juantwofour.github.io/Product-Preview-Card/)
 
 ## My process
 
@@ -76,6 +76,7 @@ Using the mobile first approach method has helped me so much in cutting down on 
 ### Useful resources
 
 - [W3Schools](https://www.w3schools.com/) - Will never not use this website to get out of a stumble, it is always the first place I stop by for help.
+- [px to rem converter](https://nekocalc.com/px-to-rem-converter) - Used to convert px units into rem units.
 
 ## Author
 
