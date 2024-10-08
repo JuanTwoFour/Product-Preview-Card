@@ -17,6 +17,16 @@ body {
   background-color: var(--Cream) ;
 }
 
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 9px 9px 0 0;
+}
+
+section {
+  padding: 1rem;
+}
+
 .container {
   background-color: var(--White);
   display: flex;
@@ -26,14 +36,11 @@ body {
   margin: 2rem 1rem;
 }
 
-img {
-  width: 100%;
-  height: auto;
-  border-radius: 9px 9px 0 0;
+.mobile-view {
+  display: block;
 }
-
-section {
-  padding: 1rem;
+.desktop-view {
+  display: none;
 }
 
 .title {
