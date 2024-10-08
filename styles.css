@@ -39,6 +39,7 @@ section {
 .mobile-view {
   display: block;
 }
+
 .desktop-view {
   display: none;
 }
